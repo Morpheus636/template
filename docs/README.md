@@ -19,7 +19,7 @@
 <Remove this section for unmaintained projects>
 To submit a bug report or feature request, please open a GitHub Issue in this repository. 
 
-For support or questions, please ask in the appropriate section of the [Forums](https://forums.morpheus636.com) or [Discord](discord.morpheus636.com)
+To ask a question or get support, you can join my [Discord Server](https://discord.morpheus636.com) or create a Discussions thread within this repository.
 
 ## Contributing
 EITHER:
