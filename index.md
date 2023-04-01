@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-Your test site works!
+Your template site works!
