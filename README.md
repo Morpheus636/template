@@ -12,8 +12,12 @@
 - library
 - another library
 
-## Usage
-<Usage Instructions>
+## Development
+Run the following:
+```sh
+bundle install
+bundle exec jekyll serve
+```
 
 ## Contact
 <Remove this section for unmaintained projects>
